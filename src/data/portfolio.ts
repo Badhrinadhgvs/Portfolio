@@ -5,7 +5,7 @@ export const profile = {
   tagline:
     "I build agentic AI systems and ship enterprise-grade ServiceNow platforms — ready for client-facing technical roles on day one.",
   location: "Nellore, Andhra Pradesh, India",
-  email: "badhrinadh.g.v.s@gmail.com",
+  email: "badhrinadh.cse@gmail.com",
   phone: "+91-9346980100",
   linkedin: "https://linkedin.com/in/badhrinadhgvs",
   github: "https://github.com/Badhrinadhgvs",
